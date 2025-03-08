@@ -144,7 +144,9 @@ class VoiceProcessor:
             if language == "ru":
                 language_code = "ru"
             elif language == "uz":
-                language_code = "en"  
+                language_code = "en"
+            else:
+                language_code = "tr"  
                 
                 
                 

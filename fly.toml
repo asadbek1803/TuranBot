@@ -1,4 +1,4 @@
-app = "geminiaibot"
+app = "turanbot"
 primary_region = "hkg"
 
 [http_service]

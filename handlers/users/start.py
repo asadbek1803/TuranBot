@@ -104,5 +104,5 @@ async def create_or_update_account(message: types.Message):
                 except Exception as e:
                     logger.error(f"Adminga xabar yuborishda xatolik: {e}")
     except Exception as e:
-        await message.answer(text=f"Xatolik yuz berdi ❌\n{str(e)}")
+        await message.answer(text=f"Serverda xatolik yuz berdi ❌\n\n\n/start buyrug'ini yuboring!")
 
