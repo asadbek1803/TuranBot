@@ -29,7 +29,7 @@ async def handle_about_center(message: types.Message):
     
     about_text = {
         "uz": (
-            "<b>TURAN O'QUV MARKAZI – FARG‘ONADAGI YAGONA TURK TILI MARKAZI</b>\n\n"
+            "<b>TURAN TA'LIM – FARG‘ONADAGI YAGONA TURK TILI MARKAZI</b>\n\n"
             "Turan O‘quv Markazi – Farg‘ona shahridagi yagona <b>Turk tili markazi</b> bo‘lib, "
             "o‘quvchilarga sifatli ta’lim berish va ularning kelajagiga yo‘l ochishni maqsad qilgan. "
             "Markazimiz 2 yil oldin tashkil etilgan bo‘lib, <b>Turan Kansalting</b> va <b>Turan Til Markazi</b> "
@@ -45,7 +45,7 @@ async def handle_about_center(message: types.Message):
             "📲 <b>Telegram:</b> <a href='https://t.me/Turan_talim'>t.me/Turan_talim</a>"
         ),
         "tr": (
-            "<b>TURAN EĞİTİM MERKEZİ – FERGANA'DAKİ TEK TÜRKÇE MERKEZİ</b>\n\n"
+            "<b>TURAN TA'LIM – FERGANA'DAKİ TEK TÜRKÇE MERKEZİ</b>\n\n"
             "Turan Eğitim Merkezi, Fergana’daki tek <b>Türkçe merkezi</b> olup, "
             "öğrencilere kaliteli eğitim sunmayı ve onların geleceğine yön vermeyi amaçlamaktadır. "
             "Merkezimiz 2 yıl önce kurulmuş olup, <b>Turan Danışmanlık</b> ve <b>Turan Dil Merkezi</b> "
