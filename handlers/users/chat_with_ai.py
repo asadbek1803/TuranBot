@@ -549,5 +549,16 @@ async def handle_image(message: types.Message):
         parse_mode=ParseMode.HTML
     )
 
+@router.message(F.video_note)
+async def handle_note_video(message: types.Message):
+    """Handle image/photo messages"""
+    telegram_id = message.from_user.id
+    user = await db.select_user(telegram_id=telegram_id)
+    language = user["language"] if user else "uz"
+    
+    await message.answer(
+        text=messages[language]["not_supported_media"],
+        parse_mode=ParseMode.HTML
+    )
 
 

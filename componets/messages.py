@@ -4,7 +4,7 @@ buttons = {
     "uz": {
         "start": "Assalomu alaykum <b>{name}</b>! Siz avval ro'yxatdan o'tgansiz 😊",
         "choose_lang": "Iltimos, tilni tanlang:",
-        "btn_new_chat": "💬 Yangi Chat",
+        "btn_new_chat": "💬 Yangi Suhbat",
         "btn_stop": "⛔ To'xtatish",
         "btn_location": "📍 Bizning manzil",
         "btn_aboutus": "🏫 Biz haqimizda",
@@ -27,7 +27,7 @@ buttons = {
 messages = {
     "uz": {
         "voice_response":"🔊 Ovozli xabar",
-        "education_center_address": "<b>O'quv markazi manzili:</b>\n\nFarg'ona viloyati, Farg'ona shahar\n\nMo'ljal: Ixlos savdo majmuasi 3-qavat\n\n<b>Aloqa uchun:</b> <code> +998 (90) 846-8188 </code>",
+        "education_center_address": "<b>O'quv Talim manzili:</b>\n\nFarg'ona viloyati, Farg'ona shahar\n\nMo'ljal: Ixlos savdo majmuasi 3-qavat\n\n<b>Aloqa uchun:</b> <code> +998 (90) 846-8188 </code>",
         "choose_lang": "🌍 Iltimos, tilni tanlang:\n\n🇺🇿 O'zbekcha | 🇹🇷 Türkçe",
         "about_start": "Assalomu alaykum <b> Turan Ta'lim </b> o'quv markazi uchun maxsus ishlab chiqarilgan botimizga xush kelibsiz! Ijtimoiy tarmoqlarimizga obuna bo'lishni unutmang👇👇",
         "start": "<b>🤖 AI Chatbot bilan suhbatni boshladingiz!</b>\n\nSavollaringizni yozing.\n\n❌ Chiqish uchun /stop ni yuboring.",
@@ -48,7 +48,7 @@ messages = {
     
     "tr": {
         "voice_response": "🔊 Sesli mesaj",
-        "education_center_address": "<b>Eğitim merkezinin adresi:</b>\n\nFergana bölgesi, Fergana şehri\n\nDönüm noktası: İkhlos alışveriş kompleksi, 3. kat\n\n<b>İletişim için:</b> <code> +998 (90) 846-8188 </code>",
+        "education_center_address": "<b>Eğitim Ta'lim adresi:</b>\n\nFergana bölgesi, Fergana şehri\n\nDönüm noktası: İkhlos alışveriş kompleksi, 3. kat\n\n<b>İletişim için:</b> <code> +998 (90) 846-8188 </code>",
         "about_start": "Merhaba, <b>Turan Ta'lim</b> eğitim merkezine özel olarak tasarlanmış botumuza hoş geldiniz! Sosyal ağlarımıza abone olmayı unutmayın👇👇",
         "choose_lang": "🌍 Lütfen bir dil seçin:\n\n🇺🇿 O'zbekcha | 🇷🇺 Русский | 🇺🇸 English | 🇹🇷 Türkçe",
         "start": "<b>🤖 AI Chatbot ile sohbete başladınız!</b>\n\nSorularınızı sorun.\n\n❌ Çıkmak için /stop gönderin.",

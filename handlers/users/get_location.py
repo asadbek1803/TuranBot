@@ -18,7 +18,7 @@ async def handle_address_request(message: types.Message):
     user = await db.select_user(telegram_id=telegram_id)
     language = user["language"] if user else "uz"
     video_url = "https://t.me/turan_mediafiles/6"
-    location = [[types.InlineKeyboardButton(text = "📌 GPS orqali ko'rish", url="https://maps.app.goo.gl/3hKwUrWuz2xAnQTX6")]]
+    location = [[types.InlineKeyboardButton(text = "📌 Xarita orqali ko'rish", url="https://maps.app.goo.gl/3hKwUrWuz2xAnQTX6")]]
     await message.answer_video(
         video = video_url,
         caption=messages[language]["education_center_address"],
